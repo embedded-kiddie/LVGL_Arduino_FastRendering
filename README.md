@@ -23,7 +23,7 @@ The following video shows how "**Buffer with Finished Pixels** --> **Updated Pix
 
 <p style="text-align: center">
   <video controls muted width="640" height="360">
-    <source src="https://embedded-kiddie.github.io/images/2025/04-03/demo-rendering.mp4" type="video/mp4" />
+    <source src="images/demo-rendering.mp4" type="video/mp4" />
   </video>
 </p>
 
