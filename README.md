@@ -21,11 +21,11 @@ In this code, the magic number `10` means that one frame is divided into 10 smal
 
 The following video shows how "**Buffer with Finished Pixels** --> **Updated Pixels**" would be processed.
 
-<p style="text-align: center">
-  <video controls muted width="640" height="360">
-    <source src="images/demo-rendering.mp4" type="video/mp4" />
-  </video>
-</p>
+
+
+https://github.com/user-attachments/assets/623473d9-5249-4d5d-9fc9-4cd539e41252
+
+
 
 The `10` rectangles in the video are the regions that LVGL has specified to be updated. The border color changes from red to green to blue every frame. Regions that do not change color indicate that no update is necessary.
 
